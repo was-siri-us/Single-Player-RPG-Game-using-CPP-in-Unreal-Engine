@@ -24,13 +24,11 @@ Aurora is an single-player Third Person perspective RPG developed using C++ and 
 
 ![Screenshot 2024-04-11 123658](https://github.com/was-siri-us/Single-Player-RPG-Game-using-CPP-in-UE4-5/assets/116163817/34da5450-703a-42a5-a492-1b8f96932381)
 
-![Screenshot 2024-04-11 123824](https://github.com/was-siri-us/Single-Player-RPG-Game-
-using-CPP-in-UE4-5/assets/116163817/4b8ff220-2fc0-488e-a511-a207b0ec9b43)
+![Screenshot 2024-04-11 123824](https://github.com/was-siri-us/Single-Player-RPG-Game-using-CPP-in-UE4-5/assets/116163817/4b8ff220-2fc0-488e-a511-a207b0ec9b43)
 
 ![Screenshot 2024-04-11 123944](https://github.com/was-siri-us/Single-Player-RPG-Game-using-CPP-in-UE4-5/assets/116163817/58d93d3a-3777-44e0-bf24-2501c468fc4d)
 
-![Screenshot 2024-04-11 124033](https://github.com/was-siri-us/Single-Player-RPG-Game-
-using-CPP-in-UE4-5/assets/116163817/45a61802-e978-45d2-a8fa-893f97092497)
+![Screenshot 2024-04-11 124033](https://github.com/was-siri-us/Single-Player-RPG-Game-using-CPP-in-UE4-5/assets/116163817/45a61802-e978-45d2-a8fa-893f97092497)
 
 ![Screenshot 2024-04-11 124056](https://github.com/was-siri-us/Single-Player-RPG-Game-using-CPP-in-UE4-5/assets/116163817/9a6ca9fa-726b-4a6d-98c2-1927716d3bc6)
 

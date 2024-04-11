@@ -40,10 +40,3 @@ We appreciate any feedback you have regarding Aurora. Feel free to open an issue
 
 Aurora is licensed under the [MIT License](LICENSE), allowing for both personal and commercial use.
 
-## Acknowledgements
-
-Aurora wouldn't be possible without the contributions and support of the following individuals:
-
-- [List of contributors]
-
-Thank you for your interest in Aurora! We hope you enjoy playing it as much as we enjoyed creating it.

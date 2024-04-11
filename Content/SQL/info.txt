@@ -1,0 +1,18 @@
+host :bsm4wj3x5v0wljtp7d4w-mysql.services.clever-cloud.com
+
+db name: bsm4wj3x5v0wljtp7d4w
+
+user: uhg98uqsiwdqphpi
+
+pass: rLtP9lt7JnPwcEAvFbLq
+
+port: 3306
+
+connection url: mysql://uhg98uqsiwdqphpi:rLtP9lt7JnPwcEAvFbLq@bsm4wj3x5v0wljtp7d4w-mysql.services.clever-cloud.com:3306/bsm4wj3x5v0wljtp7d4w
+
+
+mysql cli : 
+mysql -h bsm4wj3x5v0wljtp7d4w-mysql.services.clever-cloud.com -P 3306 -u uhg98uqsiwdqphpi -p bsm4wj3x5v0wljtp7d4w
+
+
+
